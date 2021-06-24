@@ -1,8 +1,5 @@
 # ClickOverlapPrevent
 
-- project for jw <br />
-- email address :  cjd9408abcd@gmail.com <br />
-
 ## Introduction
 - This is a simple source code that prevents double clicks.
 
